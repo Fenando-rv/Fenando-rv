@@ -1,11 +1,36 @@
 <!-- Banner Header -->
 ![Nando](img/github-header-banner.png)
 
-<h1 align="center">👋 Welcome to My GitHub Broo👋 </h1>
+<h1 align="center">
+  <span style="
+    animation: glow 2s ease-in-out infinite alternate;
+    color: #00bfff;
+    text-shadow: 0 0 5px #00bfff, 0 0 10px #00bfff, 0 0 15px #00bfff;
+  ">
+    👋 Welcome to My GitHub, Broo! 👋
+  </span>
+</h1>
+
+<style>
+@keyframes glow {
+  from { opacity: 0.5; text-shadow: 0 0 5px #00bfff; }
+  to { opacity: 1; text-shadow: 0 0 20px #00bfff, 0 0 30px #00bfff; }
+}
+</style>
+
 
 <p align="center">
-  <b>Lecturer | Mentor | Software Engineer from 🇮🇩 Palembang, Indonesia</b><br>
+  <b>🎓 Lecturer | 💻 Software Engineer | 📢 Mentor</b><br>
+  <b>🇮🇩 Palembang, Indonesia</b><br>
   <b>UIN Raden Fatah Palembang | BNSP Assessor | Oracle Certified Trainer</b>
+</p>
+
+---
+
+### 💬 Motto
+<p align="center">
+  <b>✨ Teaching. Motivating. Inspiring. ✨</b><br>
+  <i>"Bridging Knowledge and Code — Empowering Minds Through Technology."</i>
 </p>
 
 ---
@@ -39,7 +64,7 @@
 ### 🏆 Achievements
 - 💬 Mentor in **Digital Forensics & Programming Training** for Law Enforcement  
 - 🧑‍🏫 Speaker & Educator in **Object-Oriented Programming (OOP)** and Software Design  
-- 🎙️ Founder of **Si Rafa Studio** — a creative team for podcasts & digital content  
+- 🎙️ Mentor of **Si Rafa Studio** — a creative team for podcasts & digital content  
 - 🏅 Contributor in **academic innovation and digital community empowerment**  
 
 ---
@@ -54,25 +79,14 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:fenando.rv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/si_rafa.studio" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram" /></a>
-  <a href="https://www.facebook.com" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" /></a>
-  <a href="https://www.tiktok.com/@si_rafa.studio" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok" /></a>
-  <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-darkred?style=flat-square&logo=youtube" /></a>
+  <a href="https://www.linkedin.com/in/fenando-a7b74270/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:fenando_uin@radenfatah.ac.id" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/fenando.rv/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram" /></a>
+  <a href="https://www.facebook.com/encest/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" /></a>
+  <a href="https://www.tiktok.com/@fenando.rv" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok" /></a>
 </p>
 
 ---
 
-### 💬 Motto
-<p align="center">
-🎓 <i>𝑳𝒆𝒄𝒕𝒖𝒓𝒆𝒓</i><br>
-💻 <i>𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈</i><br>
-📢 <i>𝑻𝒆𝒂𝒄𝒉𝒊𝒏𝒈, 𝑴𝒐𝒕𝒊𝒗𝒂𝒕𝒊𝒏𝒈, 𝑰𝒏𝒔𝒑𝒊𝒓𝒊𝒏𝒈</i>
-</p>
-
----
-
-<p align="center">
-  <b>✨ Keep Learning | Keep Inspiring | Keep Coding ✨</b>
-</p>
+⭐️ *“Keep Learning | Keep Inspiring | Keep Coding”*  
+<p align="center"><i>Made with ❤️ by Mr. Nando</i></p>
