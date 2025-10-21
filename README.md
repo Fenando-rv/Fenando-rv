@@ -18,7 +18,6 @@
 }
 </style>
 
-
 <p align="center">
   <b>🎓 Lecturer | 💻 Software Engineer | 📢 Mentor</b><br>
   <b>🇮🇩 Palembang, Indonesia</b><br>
