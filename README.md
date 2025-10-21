@@ -1,12 +1,10 @@
 <!-- Banner Header -->
-<p align="center">
-  <img src="https://i.ibb.co/vxVLn2f/Mr-Nando-Banner-GitHub.png" alt="Mr Nando Banner" width="100%"/>
-</p>
+![Nando](img/github-header-banner.png)
 
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
 <p align="center">
-  <b>Lecturer, Mentor, and Developer from 🇮🇩 Palembang, Indonesia</b><br>
+  <b>Lecturer | Mentor | Software Engineer from 🇮🇩 Palembang, Indonesia</b><br>
   <b>UIN Raden Fatah Palembang | BNSP Assessor | Oracle Certified Trainer</b>
 </p>
 
@@ -15,10 +13,10 @@
 ### 🧑‍🏫 About Me
 - 🎓 Lecturer at **Information Systems Department, UIN Raden Fatah Palembang**  
 - 🧠 Expertise in **Java, C++, PHP, Laravel, CodeIgniter, Flutter, and Oracle Database**  
-- 🎬 Passionate about **Multimedia, Digital Content Creation, and Software Development**  
-- 👮‍♂️ Mentor at **POLDA & POLRESTABES Sumatera Selatan**  
-- 💡 Dedicated to guiding students and young developers to become **creative tech leaders**  
-- 🎮 Gamer in free time — love to play **Mobile Legends, Point Blank, Roblox, PES, and Steam games**  
+- 🎬 Passionate about **Multimedia, Digital Content Creation, and Software Engineering**  
+- 👮‍♂️ Mentor for **POLDA & POLRESTABES Sumatera Selatan** training programs  
+- 💡 Dedicated to guiding students and young developers to become **innovative and ethical tech leaders**  
+- 🎮 Gamer in free time — love playing **Mobile Legends, Point Blank, Roblox, PES, and Steam games**  
 
 ---
 
@@ -39,18 +37,18 @@
 ---
 
 ### 🏆 Achievements
-- 💬 Mentor in **Digital Forensics and Programming Training** for Law Enforcement  
-- 🧑‍🏫 Speaker & Educator in **Object-Oriented Programming (OOP)** courses  
-- 🎙️ Founder of **Si Rafa Studio** — a creative team for podcasts and content creation  
-- 🏅 Active contributor in **academic and digital community development**  
+- 💬 Mentor in **Digital Forensics & Programming Training** for Law Enforcement  
+- 🧑‍🏫 Speaker & Educator in **Object-Oriented Programming (OOP)** and Software Design  
+- 🎙️ Founder of **Si Rafa Studio** — a creative team for podcasts & digital content  
+- 🏅 Contributor in **academic innovation and digital community empowerment**  
 
 ---
 
 ### 🎓 Certifications & Professional Roles
 - 🧩 **BNSP Certified Assessor** — *Web Developer Competency*  
 - 🏫 **Oracle Academy Trainer (ToT Certified)**  
-- 🧾 Holder of multiple **professional certifications** in Software Engineering and Education Technology  
-- 🔖 Active in **curriculum development & assessment standardization** within IT education  
+- 🧾 Holder of multiple **Professional Certificates** in Software Engineering & EdTech  
+- 🔖 Active in **Curriculum Development & Assessment Standardization** within IT Education  
 
 ---
 
