@@ -1,22 +1,6 @@
 <!-- Banner Header -->
 ![Nando](img/github-header-banner.png)
 
-<h1 align="center">
-  <span style="
-    animation: glow 2s ease-in-out infinite alternate;
-    color: #00bfff;
-    text-shadow: 0 0 5px #00bfff, 0 0 10px #00bfff, 0 0 15px #00bfff;
-  ">
-    👋 Welcome to My GitHub, Broo! 👋
-  </span>
-</h1>
-
-<style>
-@keyframes glow {
-  from { opacity: 0.5; text-shadow: 0 0 5px #00bfff; }
-  to { opacity: 1; text-shadow: 0 0 20px #00bfff, 0 0 30px #00bfff; }
-}
-</style>
 
 <p align="center">
   <b>🎓 Lecturer | 💻 Software Engineer | 📢 Mentor</b><br>
