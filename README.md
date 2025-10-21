@@ -1,7 +1,7 @@
 <!-- Banner Header -->
 ![Nando](img/github-header-banner.png)
 
-<h1 align="center">👋 Welcome to My GitHub Profile 👋 </h1>
+<h1 align="center">👋 Welcome to My GitHub 👋 </h1>
 
 <p align="center">
   <b>Lecturer | Mentor | Software Engineer from 🇮🇩 Palembang, Indonesia</b><br>
