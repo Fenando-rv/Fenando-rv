@@ -1,13 +1,10 @@
 <!-- Banner Header -->
 ![Nando](img/github-header-banner.png)
-
-
 <p align="center">
   <b>🎓 Lecturer | 💻 Software Engineer | 📢 Mentor</b><br>
   <b>🇮🇩 Palembang, Indonesia</b><br>
   <b>UIN Raden Fatah Palembang | BNSP Assessor | Oracle Certified Trainer</b>
 </p>
-
 ---
 
 ### 💬 Motto
@@ -15,24 +12,21 @@
   <b>✨ Teaching. Motivating. Inspiring. ✨</b><br>
   <i>"Bridging Knowledge and Code — Empowering Minds Through Technology."</i>
 </p>
-
 ---
 
 ### 🧑‍🏫 About Me
-- 🎓 Lecturer at **Information Systems Department, UIN Raden Fatah Palembang**  
-- 🧠 Expertise in **Java, C++, PHP, Laravel, CodeIgniter, Flutter, and Oracle Database**  
-- 🎬 Passionate about **Multimedia, Digital Content Creation, and Software Engineering**  
-- 👮‍♂️ Mentor for **POLDA & POLRESTABES Sumatera Selatan** training programs  
-- 💡 Dedicated to guiding students and young developers to become **innovative and ethical tech leaders**  
-- 🎮 Gamer in free time — love playing **Mobile Legends, Point Blank, Roblox, PES, and Steam games**  
-
+- 🎓 Lecturer at **Information Systems Department, UIN Raden Fatah Palembang**
+- 🧠 Expertise in **Java, C++, PHP, Laravel, CodeIgniter, Flutter, and Oracle Database**
+- 🎬 Passionate about **Multimedia, Digital Content Creation, and Software Engineering**
+- 👮‍♂️ Mentor for **POLDA & POLRESTABES Sumatera Selatan** training programs
+- 💡 Dedicated to guiding students and young developers to become **innovative and ethical tech leaders**
+- 🎮 Gamer in free time — love playing **Mobile Legends, Point Blank, Roblox, PES, and Steam games**
 ---
 
 ### 💻 Tech Stack & Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,php,laravel,codeigniter,flutter,html,css,js,python,oracle,mysql,git,vscode,linux" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
@@ -41,23 +35,20 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenando-rv&theme=tokyonight" alt="Streak Stats" />
 </p>
-
 ---
 
 ### 🏆 Achievements
-- 💬 Mentor in **Digital Forensics & Programming Training** for Law Enforcement  
-- 🧑‍🏫 Speaker & Educator in **Object-Oriented Programming (OOP)** and Software Design  
-- 🎙️ Mentor of **Si Rafa Studio** — a creative team for podcasts & digital content  
-- 🏅 Contributor in **academic innovation and digital community empowerment**  
-
+- 💬 Mentor in **Digital Forensics & Programming Training** for Law Enforcement
+- 🧑‍🏫 Speaker & Educator in **Object-Oriented Programming (OOP)** and Software Design
+- 🎙️ Mentor of **Si Rafa Studio** — a creative team for podcasts & digital content
+- 🏅 Contributor in **academic innovation and digital community empowerment**
 ---
 
 ### 🎓 Certifications & Professional Roles
-- 🧩 **BNSP Certified Assessor** — *Web Developer Competency*  
-- 🏫 **Oracle Academy Trainer (ToT Certified)**  
-- 🧾 Holder of multiple **Professional Certificates** in Software Engineering & EdTech  
-- 🔖 Active in **Curriculum Development & Assessment Standardization** within IT Education  
-
+- 🧩 **BNSP Certified Assessor** — *Web Developer Competency*
+- 🏫 **Oracle Academy Trainer (ToT Certified)**
+- 🧾 Holder of multiple **Professional Certificates** in Software Engineering & EdTech
+- 🔖 Active in **Curriculum Development & Assessment Standardization** within IT Education
 ---
 
 ### 📫 Connect With Me
@@ -68,8 +59,17 @@
   <a href="https://www.facebook.com/encest/" target="_blank"><img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook" /></a>
   <a href="https://www.tiktok.com/@fenando.rv" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=flat-square&logo=tiktok" /></a>
 </p>
+---
+
+⭐️ *“Keep Learning | Keep Inspiring | Keep Coding”*
+<p align="center"><i>Made with by Mr. Nando</i></p>
 
 ---
 
-⭐️ *“Keep Learning | Keep Inspiring | Keep Coding”*  
-<p align="center"><i>Made with ❤️ by Mr. Nando</i></p>
+### 👋 Welcome to My GitHub!
+<p align="center">
+  <b>Hey there! 👋 Thanks for stopping by my GitHub profile!</b><br>
+  <i>Feel free to explore my repositories, projects, and contributions. If you're a student, developer, or just curious about tech, let's connect and share ideas!</i><br>
+  <br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Fenando-rv.Fenando-rv" alt="Visitor Count" />
+</p>
