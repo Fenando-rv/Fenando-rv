@@ -35,15 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenando-rv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenando-rv&theme=tokyonight" alt="Streak Stats" />
-</p>
-
----
-
 ### 🏆 Achievements
 - 💬 Mentor in **Digital Forensics & Programming Training** for Law Enforcement  
 - 🧑‍🏫 Speaker & Educator in **Object-Oriented Programming (OOP)** and Software Design  
