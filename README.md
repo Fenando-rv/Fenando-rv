@@ -45,7 +45,8 @@
 
 ### 🎓 Certifications & Professional Roles
 - 🧩 **BNSP Certified Assessor** — *Web Developer Competency*  
-- 🏫 **Oracle Academy Trainer (ToT Certified)**  
+- 🏫 **Oracle Academy Trainer (ToT Certified)**
+- 🏫 **Gemini Certified Faculty**
 - 🧾 Holder of multiple **Professional Certificates** in Software Engineering & EdTech  
 - 🔖 Active in **Curriculum Development & Assessment Standardization** within IT Education  
 
