@@ -1,6 +1,4 @@
-<!-- Banner Header -->
 ![Nando](img/github-header-banner.png)
-
 
 <p align="center">
   <b>🎓 Lecturer | 💻 Software Engineer | 📢 Mentor</b><br>
@@ -19,14 +17,8 @@
 ---
 
 ### 🧑‍🏫 About Me
-- 🎓 Lecturer at **Information Systems Department, UIN Raden Fatah Palembang**  
-- 🧠 Expertise in **Java, C++, PHP, Laravel, CodeIgniter, Flutter, and Oracle Database**  
-- 🎬 Passionate about **Multimedia, Digital Content Creation, and Software Engineering**  
-- 👮‍♂️ Mentor for **POLDA & POLRESTABES Sumatera Selatan** training programs  
-- 💡 Dedicated to guiding students and young developers to become **innovative and ethical tech leaders**  
-- 🎮 Gamer in free time — love playing **Mobile Legends, Point Blank, Roblox, PES, and Steam games**  
-
----
+- 🎓 Lecturer at **Information Systems Department, UIN Raden Fatah Palembang** - 🧠 Expertise in **Java, C++, PHP, Laravel, CodeIgniter, Flutter, and Oracle Database** - 🎬 Passionate about **Multimedia, Digital Content Creation, and Software Engineering** - 👮‍♂️ Mentor for **POLDA & POLRESTABES Sumatera Selatan** training programs  
+- 💡 Dedicated to guiding students and young developers to become **innovative and ethical tech leaders** - 🎮 Gamer in free time — love playing **Mobile Legends, Point Blank, Roblox, PES, and Steam games** ---
 
 ### 💻 Tech Stack & Skills
 <p align="center">
@@ -39,14 +31,14 @@
 - 💬 Mentor in **Digital Forensics & Programming Training** for Law Enforcement  
 - 🧑‍🏫 Speaker & Educator in **Object-Oriented Programming (OOP)** and Software Design  
 - 🎙️ Mentor of **Si Rafa Studio** — a creative team for podcasts & digital content  
-- 🏅 Contributor in **academic innovation and digital community empowerment**  
-
----
+- 🏅 Contributor in **academic innovation and digital community empowerment** ---
 
 ### 🎓 Certifications & Professional Roles
-- 🧩 **BNSP Certified Assessor** — *Web Developer Competency*  
-- 🏫 **Oracle Academy Trainer (ToT Certified)**
-- 🏫 **Gemini Certified Faculty - Google for Education**
+- 🧩 **BNSP Certified Assessor** — *Web Developer Competency* - 🏫 **Oracle Academy Trainer (ToT Certified)**
+- 🛡️ **Google for Education Certified:**
+  - 🎓 **Gemini University Student**
+  - 🌟 **Gemini Certified Faculty & Educator**
+  - 📜 **Google Certified Educator Level 1 & Level 2**
 - 🧾 Holder of multiple **Professional Certificates** in Software Engineering & EdTech  
 - 🔖 Active in **Curriculum Development & Assessment Standardization** within IT Education  
 
@@ -63,5 +55,4 @@
 
 ---
 
-⭐️ *“Keep Learning | Keep Inspiring | Keep Coding”*  
-<p align="center"><i>Made with by Mr. Nando</i></p>
+⭐️ *“Keep Learning | Keep Inspiring | Keep Coding”* <p align="center"><i>Made with ❤️ by Mr. Nando</i></p>
